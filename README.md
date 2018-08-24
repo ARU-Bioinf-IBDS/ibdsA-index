@@ -45,19 +45,7 @@
 <li><em>Optional</em> Chapter 2 of Jones, Martin 2015.<span>&nbsp;</span><em>Python for Biologists: A complete programming course for beginners</em>, CreateSpace Independent Publishing Platform.</li>
 </ul>
 <p>&nbsp;</p>
-<h2>Homework and Online Seminars</h2>
-<p>After completing each workbook there is a homework book where you can exercise the skills mastered. We will review the homework in online seminars (approximately once a week):</p>
-<ul>
-<li>
-<div class="ig-info">
-<div class="module-item-title"><span class="item_name"><a class="ig-title title item_link" title="P1. Homework/Seminar A" href="https://canvas.anglia.ac.uk/courses/1490/modules/items/168220">Homework/Seminar A</a></span></div>
-<div class="module_item_icons nobr"><span class="criterion "></span></div>
-<div class="ig-details">
-<div class="requirement-description ig-details__item"></div>
-</div>
-</div>
-</li>
-</ul>
+
 
 -------------------------
 
