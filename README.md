@@ -1,5 +1,6 @@
-# ibdsA-index
-Introduction to Bioinformatics and DS, Practical A, Overview
+# Introduction to Bioinformatics and DS, Practical A, Overview
+
+## 
 
 <p>This practical introduces programming in python showing how sequence information can be stored and manipulated in strings.</p>
 <h2>Practical Learning Outcomes</h2>
@@ -41,7 +42,6 @@ Introduction to Bioinformatics and DS, Practical A, Overview
 <h2>Reading</h2>
 <ul>
 <li>Preparation for the topic, DataCamp online course<span>&nbsp;</span><em>Intro to Python for Data Science</em><span>&nbsp;</span>sections 1, 2 and 3:<span>&nbsp;</span><a class="external" href="https://www.datacamp.com/courses/intro-to-python-for-data-science" target="_blank" rel="noopener"><span>https://www.datacamp.com/courses/intro-to-python-for-data-science<span class="screenreader-only">&nbsp;(Links to an external site.)</span></span></a></li>
-<li>YouTube video<span>&nbsp;</span><em>Using Jupyter Notebooks on notebooks.azure.com<br /></em><a class="external youtubed" href="https://www.youtube.com/watch?v=UtQ5z3H9epI&amp;feature=youtu.be" target="_blank" rel="noopener" data-ytt-failcnt="2"><span>https://www.youtube.com/watch?v=UtQ5z3H9epI&amp;feature=youtu.be<span class="screenreader-only">&nbsp;(Links to an external site.)</span></span><span class="ui-icon ui-icon-extlink ui-icon-inline" title="Links to an external site."><span class="screenreader-only">Links to an external site.</span></span></a><a class="youtubed" href="https://www.youtube.com/watch?v=UtQ5z3H9epI&amp;feature=youtu.be"><img class="media_comment_thumbnail" src="https://canvas.anglia.ac.uk/images/play_overlay.png" alt="" /></a></li>
 <li>How do I ask a good question to a coding forum?<span>&nbsp;</span><a class="external" href="https://stackoverflow.com/help/how-to-ask" target="_blank" rel="noopener"><span>https://stackoverflow.com/help/how-to-ask<span class="screenreader-only">&nbsp;(Links to an external site.)</span></span></a></li>
 <li><em>Optional</em> Chapter 2 of Jones, Martin 2015.<span>&nbsp;</span><em>Python for Biologists: A complete programming course for beginners</em>, CreateSpace Independent Publishing Platform.</li>
 </ul>
