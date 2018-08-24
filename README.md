@@ -1,6 +1,5 @@
-# Introduction to Bioinformatics and DS, Practical A, Overview
-
-## 
+# Introduction to Bioinformatics and Data Science
+## Overview of Practical A: Intro to Python for Bioinformatics
 
 <p>This practical introduces programming in python showing how sequence information can be stored and manipulated in strings.</p>
 <h2>Practical Learning Outcomes</h2>
@@ -59,3 +58,20 @@
 </div>
 </li>
 </ul>
+
+-------------------------
+
+> Index page for: 
+> *Practical A: Introduction to Python for Bioinformatics*
+>
+> Module:
+>  *Introduction to Bioinformatics and Data Science* 
+>
+> Original author: [Oliver S. Smart](https://www.linkedin.com/in/osmart/),
+> developed for BSc Bioinformatics Degree Apprenticeship,
+>  [Department of Biomedical & Forensic Sciences,
+>  Anglia Ruskin University
+>  ](https://www.anglia.ac.uk/science-and-technology/about/biomedical-and-forensic-science).
+>
+> Copyright (c) 2018 Anglia Ruskin University
+
