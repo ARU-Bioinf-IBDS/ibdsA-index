@@ -21,8 +21,8 @@
 <h2>Course Structure</h2>
 <ul>
 <li>Preparation:&nbsp;<a href="https://www.datacamp.com/courses/intro-to-python-for-data-science" target="_parent">DataCamp online course<span>&nbsp;</span><em>Intro to Python for Data Science</em></a><span>&nbsp;</span></li>
-<li><a href="https://canvas.anglia.ac.uk/courses/1490/modules/items/216676">Introducing Jupyter Notebooks</a>&nbsp;page.</li>
-<li><a href="https://canvas.anglia.ac.uk/courses/1490/pages/exercise-a-handling-sequences-in-strings" data-api-endpoint="https://canvas.anglia.ac.uk/api/v1/courses/1490/pages/exercise-a-handling-sequences-in-strings" data-api-returntype="Page">Exercise A: handling sequences in strings.</a>
+<li><a href="https://github.com/ARU-Bioinformatics/ibdsA-intro">Introducing Jupyter Notebooks</a>&nbsp;page.</li>
+<li><a href="https://github.com/ARU-Bioinformatics/ibdsA-ex-A">Exercise A: handling sequences in strings.</a>
 <ul>
 <li><a href="https://canvas.anglia.ac.uk/courses/1490/discussion_topics/35295" data-api-endpoint="https://canvas.anglia.ac.uk/api/v1/courses/1490/discussion_topics/35295" data-api-returntype="Discussion">Seminar for Exercise A: handling sequences in strings.</a></li>
 </ul>
