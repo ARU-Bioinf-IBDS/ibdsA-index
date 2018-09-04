@@ -27,7 +27,7 @@
 <li><a href="https://canvas.anglia.ac.uk/courses/1490/discussion_topics/35295" data-api-endpoint="https://canvas.anglia.ac.uk/api/v1/courses/1490/discussion_topics/35295" data-api-returntype="Discussion">Seminar for Exercise A: handling sequences in strings.</a></li>
 </ul>
 </li>
-<li>Exercise B: substring and slicing strings:
+<li><a href="https://github.com/ARU-Bioinformatics/ibdsA-ex-B">Exercise B: substring and slicing strings.</a>
 <ul>
 <li>Seminar for Exercise B:&nbsp;&nbsp;substring and slicing strings</li>
 </ul>
