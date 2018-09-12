@@ -28,13 +28,12 @@
 </ul>
 </li>
 <li><a href="https://github.com/ARU-Bioinformatics/ibdsA-ex-B">Exercise B: lists and strings.</a>
-<ul>
-<li>Seminar for Exercise B: lists and strings.</li>
-</ul>
+  <ul>
+  <li>Seminar for Exercise B: lists and strings.</li>
+  </ul>
 </li>
-<li>Exercise C: functions and methods.</li>
-<li>Exercise D: for loops</li>
-<li>Exercise E: writing your own functions</li>
+<li><a href="https://github.com/ARU-Bioinformatics/ibdsA-ex-C">Exercise C: conditional tests and loops.</a></li>
+<li>Exercise D: writing your own functions</li>
 </ul>
 <h2>Help!</h2>
 <p>Please see&nbsp;<a href="https://canvas.anglia.ac.uk/courses/1490/pages/help-with-programming" data-api-endpoint="https://canvas.anglia.ac.uk/api/v1/courses/1490/pages/help-with-programming" data-api-returntype="Page">Help with programming</a>&nbsp;</p>
