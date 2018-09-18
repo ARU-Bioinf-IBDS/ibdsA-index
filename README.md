@@ -10,13 +10,16 @@
 </ol>
 <h2>Preparation for the practical</h2>
 <ul>
-<li>In this practical, we will be using the<span>&nbsp;</span><br /><a href="https://www.datacamp.com/courses/intro-to-python-for-data-science" target="_parent">DataCamp online course<span>&nbsp;</span><em>Intro to Python for Data Science</em></a><span>&nbsp;<br /></span>to get familiar with Python and then using the to do some simple sequence analysis and manipulation to show how Python can be used for Bioinformatics.
+<li>In this practical, we will start by using the<span>&nbsp;</span><br /><a href="https://www.datacamp.com/courses/intro-to-python-for-data-science" target="_parent">DataCamp online course<span>&nbsp;</span><em>Intro to Python for Data Science</em></a><span>&nbsp;<br /></span>to get familiar with Python and then using the to do some simple sequence analysis and manipulation to show how Python can be used for Bioinformatics.
 <ul>
 <li>We will just be using Chapters 1, 2 and 3 (you can skip Chapter 4 on NumPy).</li>
-<li>It would be great to work through all three sections before starting the practical exercises activities but there is no problem doing the section needed and then the activity.</li>
+<li>It would be great to work through all three sections before starting the practical exercises activities but there is no problem doing the just the Chapter needed and then the activity.</li>
 <li>If you already know some Python then you could use the DataCamp course as revision or start on the activities and see how you get on.</li>
 </ul>
 </li>
+   
+<li>For exercise C we will prepare using Chapters 3 and 4 from the
+<a href="https://www.datacamp.com/courses/intermediate-python-for-data-science" target="_blank">DataCamp online course: Intermediate Python for Data Science</a>.</li>
 </ul>
 <h2>Course Structure</h2>
 <ul>
