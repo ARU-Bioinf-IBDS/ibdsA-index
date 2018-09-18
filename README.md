@@ -32,7 +32,7 @@
 </li>
 <li><a href="https://github.com/ARU-Bioinformatics/ibdsA-ex-B">Exercise B: lists and strings.</a>
   <ul>
-  <li>Seminar for Exercise B: lists and strings.</li>
+  <li><a href="https://canvas.anglia.ac.uk/courses/1490/discussion_topics/54039?module_item_id=277869">Seminar for Exercise B: lists and strings.</a></li>
   </ul>
 </li>
 <li><a href="https://github.com/ARU-Bioinformatics/ibdsA-ex-C">Exercise C: conditional tests and loops.</a></li>
