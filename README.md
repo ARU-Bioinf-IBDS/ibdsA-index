@@ -36,7 +36,7 @@
   </ul>
 </li>
 <li><a href="https://github.com/ARU-Bioinformatics/ibdsA-ex-C">Exercise C: conditional tests and loops.</a></li>
-<li>Exercise D: writing your own functions</li>
+<li><a href="https://github.com/ARU-Bioinformatics/ibdsA-ex-D">Exercise D: writing your own functions</a></li>
 </ul>
 <h2>Help!</h2>
 <p>Please see&nbsp;<a href="https://canvas.anglia.ac.uk/courses/1490/pages/help-with-programming" data-api-endpoint="https://canvas.anglia.ac.uk/api/v1/courses/1490/pages/help-with-programming" data-api-returntype="Page">Help with programming</a>&nbsp;</p>
