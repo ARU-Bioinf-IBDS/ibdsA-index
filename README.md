@@ -1,5 +1,5 @@
 # Introduction to Bioinformatics and Data Science
-## Overview of Practical A: Intro to Python for Bioinformatics
+## Practicals
 
 <p>This practical introduces programming in python showing how sequence information can be stored and manipulated in strings.</p>
 <h2>Practical Learning Outcomes</h2>
