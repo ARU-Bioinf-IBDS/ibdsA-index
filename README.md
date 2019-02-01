@@ -30,6 +30,14 @@ This repo provides an index to the practicals from the Introduction to Bioinform
 * [Practical A: Introducing Jupyter Notebooks](https://github.com/ARU-Bioinf-IBDS/prac-A/blob/master/README.md)
 * [Practical B: handling sequences in strings](https://github.com/ARU-Bioinf-IBDS/prac-B/blob/master/README.md)
 * [Practical C: lists and strings](https://github.com/ARU-Bioinf-IBDS/prac-C/blob/master/README.md)
+* [Practical D: Conditional tests and loops](https://github.com/ARU-Bioinf-IBDS/prac-D/blob/master/README.md)
+* [Practical E: Writing your own functions](https://github.com/ARU-Bioinf-IBDS/prac-E/blob/master/README.md)
+* Practical F: &ast;x Command Line Shell (get started with the OSX, Linux or  Unix command line) \
+  email oliver.smart@anglia.ac.uk for details.
+* Practical G: Version control with git \
+  Introduces command line git GitHub, and [GitHub Classroom Assignments](https://classroom.github.com)
+* Practical H
+
 
 
 <h2>Help!</h2>
