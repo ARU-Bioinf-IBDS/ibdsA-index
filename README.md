@@ -26,22 +26,12 @@ This repo provides an index to the practicals from the Introduction to Bioinform
 <a href="https://www.datacamp.com/courses/intermediate-python-for-data-science" target="_blank">DataCamp online course: Intermediate Python for Data Science</a>.</li>
 </ul>
 <h2>Course Structure</h2>
-<ul>
-<li>Preparation:&nbsp;<a href="https://www.datacamp.com/courses/intro-to-python-for-data-science" target="_parent">DataCamp online course<span>&nbsp;</span><em>Intro to Python for Data Science</em></a><span>&nbsp;</span></li>
-<li><a href="https://github.com/ARU-Bioinformatics/ibdsA-intro">Introducing Jupyter Notebooks</a>&nbsp;page.</li>
-<li><a href="https://github.com/ARU-Bioinformatics/ibdsA-ex-A">Exercise A: handling sequences in strings.</a>
-<ul>
-<li><a href="https://canvas.anglia.ac.uk/courses/1490/discussion_topics/35295" data-api-endpoint="https://canvas.anglia.ac.uk/api/v1/courses/1490/discussion_topics/35295" data-api-returntype="Discussion">Seminar for Exercise A: handling sequences in strings.</a></li>
-</ul>
-</li>
-<li><a href="https://github.com/ARU-Bioinformatics/ibdsA-ex-B">Exercise B: lists and strings.</a>
-  <ul>
-  <li><a href="https://canvas.anglia.ac.uk/courses/1490/discussion_topics/54039?module_item_id=277869">Seminar for Exercise B: lists and strings.</a></li>
-  </ul>
-</li>
-<li><a href="https://github.com/ARU-Bioinformatics/ibdsA-ex-C">Exercise C: conditional tests and loops.</a></li>
-<li><a href="https://github.com/ARU-Bioinformatics/ibdsA-ex-D">Exercise D: writing your own functions</a></li>
-</ul>
+
+* [Practical A: Introducing Jupyter Notebooks](https://github.com/ARU-Bioinf-IBDS/prac-A/blob/master/README.md)
+* [Practical B: handling sequences in strings](https://github.com/ARU-Bioinf-IBDS/prac-B/blob/master/README.md)
+* [Practical C: lists and strings](https://github.com/ARU-Bioinf-IBDS/prac-C/blob/master/README.md)
+
+
 <h2>Help!</h2>
 <p>Please see&nbsp;<a href="https://canvas.anglia.ac.uk/courses/1490/pages/help-with-programming" data-api-endpoint="https://canvas.anglia.ac.uk/api/v1/courses/1490/pages/help-with-programming" data-api-returntype="Page">Help with programming</a>&nbsp;</p>
 <h2>Reading</h2>
