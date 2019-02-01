@@ -1,14 +1,18 @@
 # Introduction to Bioinformatics and Data Science
 ## Practicals
 
-<p>This practical introduces programming in python showing how sequence information can be stored and manipulated in strings.</p>
-<h2>Practical Learning Outcomes</h2>
+This repo provides an index to the practicals from the Introduction to Bioinformatics and Data Science module from 
+[BSc Bioinformatics Degree apprenticeship](https://www.anglia.ac.uk/bioinformatics) at [Anglia Ruskin University](https://www.anglia.ac.uk/). Anglia Ruskin Students should refer to the [Module Canvas Page](https://canvas.anglia.ac.uk/courses/1490) rather than this page. 
+
+
+<h2>Practicals Learning Outcomes</h2>
 <ol>
-<li>Perform simple programming in python.</li>
+<li>Perform simple programming in Python.</li>
 <li>Communicate programming results in a report using Jupyter notebooks.</li>
 <li>Critically review other students&rsquo; code, developing an understanding that code readability is important.</li>
+<li>Use the *x (Unix, Linux or OSX) command line terminal for simple file manipulation</li>
 </ol>
-<h2>Preparation for the practical</h2>
+<h2>Preparation for the practicals</h2>
 <ul>
 <li>In this practical, we will start by using the<span>&nbsp;</span><br /><a href="https://www.datacamp.com/courses/intro-to-python-for-data-science" target="_parent">DataCamp online course<span>&nbsp;</span><em>Intro to Python for Data Science</em></a><span>&nbsp;<br /></span>to get familiar with Python and then using the to do some simple sequence analysis and manipulation to show how Python can be used for Bioinformatics.
 <ul>
@@ -51,17 +55,6 @@
 
 -------------------------
 
-> Index page for: 
-> *Practical A: Introduction to Python for Bioinformatics*
 >
-> Module:
->  *Introduction to Bioinformatics and Data Science* 
->
-> Original author: [Oliver S. Smart](https://www.linkedin.com/in/osmart/),
-> developed for BSc Bioinformatics Degree Apprenticeship,
->  [Department of Biomedical & Forensic Sciences,
->  Anglia Ruskin University
->  ](https://www.anglia.ac.uk/science-and-technology/about/biomedical-and-forensic-science).
->
-> Copyright (c) 2018 Anglia Ruskin University
+> Copyright (c) 2018-2019 Anglia Ruskin University
 
