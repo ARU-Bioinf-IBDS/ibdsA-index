@@ -33,15 +33,24 @@ This repo provides an index to the practicals from the Introduction to Bioinform
 * [Practical D: Conditional tests and loops](https://github.com/ARU-Bioinf-IBDS/prac-D/blob/master/README.md)
 * [Practical E: Writing your own functions](https://github.com/ARU-Bioinf-IBDS/prac-E/blob/master/README.md)
 * Practical F: &ast;x Command Line Shell (get started with the OSX, Linux or  Unix command line) \
-  email oliver.smart@anglia.ac.uk for details.
+  *delivered through Canvas, email oliver.smart@anglia.ac.uk for details.*
 * Practical G: Version control with git \
-  Introduces command line git GitHub, and [GitHub Classroom Assignments](https://classroom.github.com)
-* Practical H
+  Introduces command line git GitHub, and [GitHub Classroom Assignments](https://classroom.github.com) \
+  *delivered through Canvas and via a GitHub Classroom Assignment invitation link email oliver.smart@anglia.ac.uk for details.*
+* Practical H: Unit tests and FileIO \
+  Introduces software testing, particularly `pytest` unit tests and file input output. \
+  *delivered via a GitHub Classroom Assignment invitation link email oliver.smart@anglia.ac.uk for details.*
+* Practical I: Dictionaries \
+  *delivered via a GitHub Classroom Assignment invitation link email oliver.smart@anglia.ac.uk for details.*
+* Practical J: Numpy, Pandas and Matplotlib \
+  *delivered via a GitHub Classroom Assignment invitation link email oliver.smart@anglia.ac.uk for details.*
+* Assessment Coursework
+ *delivered via Canvas. To be completed using a GitHub Classroom Assignmentinvitation link email oliver.smart@anglia.ac.uk for details.*
 
+## Help!
+* ARU Students: please see&nbsp;<a href="https://canvas.anglia.ac.uk/courses/1490/pages/help-with-programming" data-api-endpoint="https://canvas.anglia.ac.uk/api/v1/courses/1490/pages/help-with-programming" data-api-returntype="Page">Help with programming
+* Testers: please email oliver.smart@anglia.ac.uk 
 
-
-<h2>Help!</h2>
-<p>Please see&nbsp;<a href="https://canvas.anglia.ac.uk/courses/1490/pages/help-with-programming" data-api-endpoint="https://canvas.anglia.ac.uk/api/v1/courses/1490/pages/help-with-programming" data-api-returntype="Page">Help with programming</a>&nbsp;</p>
 <h2>Reading</h2>
 <ul>
 <li>Preparation for the topic, DataCamp online course<span>&nbsp;</span><em>Intro to Python for Data Science</em><span>&nbsp;</span>sections 1, 2 and 3:<span>&nbsp;</span><a class="external" href="https://www.datacamp.com/courses/intro-to-python-for-data-science" target="_blank" rel="noopener"><span>https://www.datacamp.com/courses/intro-to-python-for-data-science<span class="screenreader-only">&nbsp;(Links to an external site.)</span></span></a></li>
